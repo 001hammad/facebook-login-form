@@ -1,12 +1,5 @@
-'use client'
 const Facebook = () => {
 
-       function AlertMessage(){
-        
-        alert('Design and Developed by Hammad Hafeez')
-        
-       }
-       AlertMessage();
 
        
 
