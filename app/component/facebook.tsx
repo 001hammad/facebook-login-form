@@ -6,7 +6,7 @@ const Facebook = () => {
   return (
     <div className='sm:flex md:flex lg:flex flex-1 justify-center  sm:space-x-14 fixed sm:ml-0 ml-8 sm:static sm:w-full" sm:bg-gray-100 sm:h-screen'>
       <div className='sm:mt-44 md:mt-44 lg:mt-44 mt-36'>
-       <h1 className='text-[#226ad6] font-semibold text-5xl sm:ml-0 ml-12 '>facebook</h1>
+       <h1 className='text-[#226ad6] font-semibold text-4xl sm:ml-0 ml-12 '>SignUp LogIn</h1>
        <p className='w-80 sm:w-96 text-xl mt-2  text-gray-800 sm:ml-0 ml-4'>Facebook helps you connect and share with the people in your life.</p>
       </div>
        <div>
