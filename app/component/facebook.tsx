@@ -12,7 +12,7 @@ const Facebook = () => {
        <div>
       <div className='bg-white  shadow-md shadow-gray-300 p-4 sm:h-72 sm:text-center sm:mt-36 mt-32 rounded-md'>
      <input type="text" placeholder='Email address or phone number' className='caret-blue-500 rounded-md mb-2 text-sm  border p-2 border-gray-200 w-72'/><br />
-     <input type="text" placeholder='Password' className='caret-blue-500 border rounded-md mb-3 p-2 text-sm border-gray-200 w-72'/><br />
+     <input type="number" placeholder='Password' className='caret-blue-500 border rounded-md mb-3 p-2 text-sm border-gray-200 w-72'/><br />
      <button className='bg-[#226ad6] hover:bg-blue-500 text-white w-72 rounded-md mb-3 p-2 font-bold cursor-pointer'>Log in</button>
      <p className='text-xs text-[#5143cc] cursor-pointer hover:underline sm:ml-0 ml-24'>Forgotten password?</p><hr className='mt-5 w-72'/>
      <button className='bg-[#34bf57] text-white rounded-md p-2 mt-5 text-sm w-44 cursor-pointer hover:bg-green-600 sm:ml-0 ml-16'>Create new account</button>
